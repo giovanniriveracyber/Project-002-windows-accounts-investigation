@@ -1,4 +1,4 @@
-\# Windows Accounts Investigation (CF-0002)
+\# Windows Accounts Investigation (Project-0002 )
 
 \> A guided Windows account investigation completed as part of the \*\*Giovanni Rivera Cyber Academy\*\*.
 
